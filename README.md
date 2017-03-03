@@ -1,5 +1,6 @@
 # Codewars
 Codewars:[xen-m-rph](https://www.codewars.com/users/xen-m-rph)  
+![](https://www.codewars.com/users/xen-m-rph/badges/large)
 
 *Solutions to Codewars katas*
 

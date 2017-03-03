@@ -4,7 +4,7 @@
  <p align="center">  ![](https://www.codewars.com/users/xen-m-rph/badges/large)  </p>   
 
 
-<p align="center"> Codewars:[xen-m-rph](https://www.codewars.com/users/xen-m-rph) </p>
+Codewars: [xen-m-rph](https://www.codewars.com/users/xen-m-rph)
 
 *Solutions to Codewars katas*
 

@@ -1,13 +1,10 @@
 # Codewars
  
- 
- <p align="center">
-  ![](https://www.codewars.com/users/xen-m-rph/badges/large)  
-</p>
-![](https://www.codewars.com/users/xen-m-rph/badges/large)  
+
+ <p align="center">  ![](https://www.codewars.com/users/xen-m-rph/badges/large)  </p>   
 
 
-Codewars:[xen-m-rph](https://www.codewars.com/users/xen-m-rph) 
+<p align="center"> Codewars:[xen-m-rph](https://www.codewars.com/users/xen-m-rph) </p>
 
 *Solutions to Codewars katas*
 

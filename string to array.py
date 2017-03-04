@@ -3,5 +3,5 @@
 def string_to_array(string):
     return string.rsplit(" ")
 
-print(string_to_array("robin singh"))
+
 

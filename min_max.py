@@ -3,8 +3,11 @@ max and min (maximum and minimum in PHP) that take a(n)
 array/vector of integers list as input and outputs, respectively,
 the largest and lowest number in that array/vector."""
 
-def minimum(arr):
-    return min(arr)
+def min(arr):
+    #return min(arr)
+    pass
+def max(arr):
+    #return max(arr)
+    pass
 
-def maximum(arr):
-    return max(arr)
+print(min([1, 2, 3 ]))

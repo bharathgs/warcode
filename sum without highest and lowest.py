@@ -4,7 +4,7 @@ except the highest and the lowest element (the value, not the index!).
  even if there are more than one with the same value!)"""
 
 def sum_array(arr):
-    if arr == [] or arr == None or len(arr) == 1 or len(arr) == 2:
+    if arr == None or len(arr) < 3:
         return 0
     else:
         return sum(sorted(arr)[1:-1])

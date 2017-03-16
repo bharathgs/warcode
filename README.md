@@ -1,7 +1,7 @@
 # Codewars
  
 
- <p align="center">  ![](https://www.codewars.com/users/xen-m-rph/badges/large)  </p>   
+ <p align="center">  ![](https://www.codewars.com/users/xen-m-rph/badges/small)  </p>   
 
 
 Codewars: [xen-m-rph](https://www.codewars.com/users/xen-m-rph)
